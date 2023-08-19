@@ -8,3 +8,8 @@ Aca va estar el informe o documentación de TPN2.
 
 * `styles.css` archivo para dar estilos generales.
 
+## PARTE 2: Obtención del nombre del jugador
+
+* `main.js` archivos para las acciones dinamicas de la app:
+
+    * `agregarNombre()`: funcion para tomar el nombre del usuario. Contiene un test. Esta ninculada a un evento de tipo *onclick* en el *input* con `id="nombre"`.
