@@ -13,3 +13,11 @@ Aca va estar el informe o documentación de TPN2.
 * `main.js` archivos para las acciones dinamicas de la app:
 
     * `agregarNombre()`: funcion para tomar el nombre del usuario. Contiene un test. Esta ninculada a un evento de tipo *onclick* en el *input* con `id="nombre"`.
+
+```javascript
+function main (edad){
+   if(edad >= 18){
+      console.log('Sos mayor de edad');
+   }
+} 
+```
