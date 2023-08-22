@@ -22,4 +22,4 @@ function main (edad){
 } 
 ```
 
-[Sobre Mi](https://www.gabrielhak.github.io/sobre-mi)
+[Sobre Mi](http://gabrielhak.github.io/sobre-mi)
